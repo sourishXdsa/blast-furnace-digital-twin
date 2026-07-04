@@ -1,6 +1,6 @@
 [theme]
 base="light"
-primaryColor="#ff4500"
-backgroundColor="#e2e8f0"
-secondaryBackgroundColor="#ffffff"
+primaryColor="#ff4500"         # Furnace Orange sliders
+backgroundColor="#b9d5f9"      # Your new light blue background
+secondaryBackgroundColor="#ffffff" # White metric cards
 textColor="#2c3e50"
